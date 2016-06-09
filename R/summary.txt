@@ -1,0 +1,19 @@
+Summary of Variables
+Time
+Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+1  203000  434000  417000  620000  786000
+	  
+Accuracy
+Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+1      27      62      83      75    1030 
+	  
+x_cordinate
+Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.00    2.53    5.01    5.00    7.46   10.00 
+   
+y-cordinate
+Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.00    2.50    4.99    5.00    7.51   10.00 
+	  
+place_id
+108390 unique places
