@@ -17,3 +17,21 @@ Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
 	  
 place_id
 108390 unique places
+
+summary(train_set)
+     row_id               x                y             accuracy            time       
+ Min.   :       0   Min.   : 0.000   Min.   : 0.000   Min.   :   1.00   Min.   :     1  
+ 1st Qu.: 7279505   1st Qu.: 2.535   1st Qu.: 2.497   1st Qu.:  27.00   1st Qu.:203057  
+ Median :14559010   Median : 5.009   Median : 4.988   Median :  62.00   Median :433922  
+ Mean   :14559010   Mean   : 5.000   Mean   : 5.002   Mean   :  82.85   Mean   :417010  
+ 3rd Qu.:21838515   3rd Qu.: 7.461   3rd Qu.: 7.510   3rd Qu.:  75.00   3rd Qu.:620491  
+ Max.   :29118020   Max.   :10.000   Max.   :10.000   Max.   :1033.00   Max.   :786239  
+                                                                                        
+       place_id       
+ 8772469670:    1849  
+ 1623394281:    1802  
+ 1308450003:    1757  
+ 4823777529:    1738  
+ 9586338177:    1718  
+ 9129780742:    1716  
+ (Other)   :29107441  
